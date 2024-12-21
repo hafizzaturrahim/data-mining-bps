@@ -1,0 +1,81 @@
+features,n_features,mode,accuracy,parameter,id_ref,time
+default,20,bootstrapping iter-0,0.7692307692307693,"{'learning_rate': 0.1, 'max_depth': 5, 'min_samples_leaf': 4, 'n_estimators': 50}",1,2 menit 31.5 detik
+default,20,bootstrapping iter-1,0.7019230769230769,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 100}",1,2 menit 24.9 detik
+default,20,bootstrapping iter-2,0.6634615384615384,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 100}",1,2 menit 25.7 detik
+default,20,bootstrapping iter-3,0.6826923076923077,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 2, 'n_estimators': 50}",1,2 menit 24.8 detik
+default,20,bootstrapping iter-4,0.7884615384615384,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 100}",1,2 menit 24.3 detik
+default,20,bootstrapping iter-5,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 200}",1,2 menit 32.3 detik
+default,20,bootstrapping iter-6,0.7019230769230769,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",1,2 menit 23.8 detik
+default,20,bootstrapping iter-7,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 200}",1,2 menit 59.6 detik
+default,20,bootstrapping iter-8,0.7788461538461539,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'n_estimators': 200}",1,3 menit 22.9 detik
+default,20,bootstrapping iter-9,0.7596153846153846,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 2, 'n_estimators': 50}",1,2 menit 51.6 detik
+default,20,bootstrapping iter-10,0.6923076923076923,"{'learning_rate': 0.2, 'max_depth': 7, 'min_samples_leaf': 4, 'n_estimators': 200}",1,2 menit 45.6 detik
+default,20,bootstrapping iter-11,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'n_estimators': 200}",1,2 menit 26.1 detik
+default,20,bootstrapping iter-12,0.75,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'n_estimators': 200}",1,2 menit 27.4 detik
+default,20,bootstrapping iter-13,0.7307692307692307,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 100}",1,2 menit 26.1 detik
+default,20,bootstrapping iter-14,0.6826923076923077,"{'learning_rate': 0.2, 'max_depth': 3, 'min_samples_leaf': 2, 'n_estimators': 100}",1,2 menit 26.9 detik
+default,20,bootstrapping iter-15,0.625,"{'learning_rate': 0.1, 'max_depth': 7, 'min_samples_leaf': 2, 'n_estimators': 50}",1,2 menit 25.7 detik
+default,20,bootstrapping iter-16,0.6730769230769231,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 50}",1,2 menit 29.5 detik
+default,20,bootstrapping iter-17,0.7019230769230769,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",1,2 menit 28.4 detik
+default,20,bootstrapping iter-18,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",1,2 menit 27.4 detik
+default,20,bootstrapping iter-19,0.6826923076923077,"{'learning_rate': 0.1, 'max_depth': 5, 'min_samples_leaf': 2, 'n_estimators': 200}",1,2 menit 29.6 detik
+fisher score,2,bootstrapping iter-0,0.7980769230769231,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 9.1 detik
+fisher score,2,bootstrapping iter-1,0.7115384615384616,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",20,1 menit 14.3 detik
+fisher score,2,bootstrapping iter-2,0.7211538461538461,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 10.4 detik
+fisher score,2,bootstrapping iter-3,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}",20,1 menit 15.1 detik
+fisher score,2,bootstrapping iter-4,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}",20,1 menit 7.9 detik
+fisher score,2,bootstrapping iter-5,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 17.9 detik
+fisher score,2,bootstrapping iter-6,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}",20,1 menit 9.4 detik
+fisher score,2,bootstrapping iter-7,0.75,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 15.4 detik
+fisher score,2,bootstrapping iter-8,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 9.9 detik
+fisher score,2,bootstrapping iter-9,0.7788461538461539,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 15.5 detik
+fisher score,2,bootstrapping iter-10,0.7211538461538461,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 9.9 detik
+fisher score,2,bootstrapping iter-11,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}",20,1 menit 19.4 detik
+fisher score,2,bootstrapping iter-12,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 9.6 detik
+fisher score,2,bootstrapping iter-13,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",20,1 menit 15.8 detik
+fisher score,2,bootstrapping iter-14,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 50}",20,1 menit 12.7 detik
+fisher score,2,bootstrapping iter-15,0.7211538461538461,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}",20,1 menit 17.8 detik
+fisher score,2,bootstrapping iter-16,0.7307692307692307,"{'learning_rate': 0.01, 'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 50}",20,1 menit 12.7 detik
+fisher score,2,bootstrapping iter-17,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 50}",20,1 menit 12.7 detik
+fisher score,2,bootstrapping iter-18,0.7596153846153846,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",20,1 menit 13.0 detik
+fisher score,2,bootstrapping iter-19,0.8173076923076923,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",20,1 menit 13.3 detik
+RFE,1,bootstrapping iter-0,0.7884615384615384,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 49.1 detik
+RFE,1,bootstrapping iter-1,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.7 detik
+RFE,1,bootstrapping iter-2,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 48.4 detik
+RFE,1,bootstrapping iter-3,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.7 detik
+RFE,1,bootstrapping iter-4,0.75,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.7 detik
+RFE,1,bootstrapping iter-5,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.8 detik
+RFE,1,bootstrapping iter-6,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.0 detik
+RFE,1,bootstrapping iter-7,0.7403846153846154,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 46.2 detik
+RFE,1,bootstrapping iter-8,0.7307692307692307,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 50.7 detik
+RFE,1,bootstrapping iter-9,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.2 detik
+RFE,1,bootstrapping iter-10,0.7211538461538461,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 48.2 detik
+RFE,1,bootstrapping iter-11,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 50.8 detik
+RFE,1,bootstrapping iter-12,0.75,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.6 detik
+RFE,1,bootstrapping iter-13,0.7307692307692307,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 47.9 detik
+RFE,1,bootstrapping iter-14,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 49.1 detik
+RFE,1,bootstrapping iter-15,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 49.4 detik
+RFE,1,bootstrapping iter-16,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 47.6 detik
+RFE,1,bootstrapping iter-17,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 54.5 detik
+RFE,1,bootstrapping iter-18,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 48.6 detik
+RFE,1,bootstrapping iter-19,0.7884615384615384,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",39,0 menit 51.1 detik
+SFS,1,bootstrapping iter-0,0.7884615384615384,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 47.9 detik
+SFS,1,bootstrapping iter-1,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 47.8 detik
+SFS,1,bootstrapping iter-2,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 49.5 detik
+SFS,1,bootstrapping iter-3,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.4 detik
+SFS,1,bootstrapping iter-4,0.75,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.2 detik
+SFS,1,bootstrapping iter-5,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 48.8 detik
+SFS,1,bootstrapping iter-6,0.7019230769230769,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.0 detik
+SFS,1,bootstrapping iter-7,0.7403846153846154,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.7 detik
+SFS,1,bootstrapping iter-8,0.7307692307692307,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 49.1 detik
+SFS,1,bootstrapping iter-9,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 45.6 detik
+SFS,1,bootstrapping iter-10,0.7211538461538461,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.6 detik
+SFS,1,bootstrapping iter-11,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 49.4 detik
+SFS,1,bootstrapping iter-12,0.75,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 44.9 detik
+SFS,1,bootstrapping iter-13,0.7307692307692307,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 47.6 detik
+SFS,1,bootstrapping iter-14,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 48.7 detik
+SFS,1,bootstrapping iter-15,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 45.4 detik
+SFS,1,bootstrapping iter-16,0.7596153846153846,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.5 detik
+SFS,1,bootstrapping iter-17,0.6923076923076923,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 49.3 detik
+SFS,1,bootstrapping iter-18,0.7115384615384616,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 45.6 detik
+SFS,1,bootstrapping iter-19,0.7884615384615384,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 50}",58,0 menit 46.6 detik
