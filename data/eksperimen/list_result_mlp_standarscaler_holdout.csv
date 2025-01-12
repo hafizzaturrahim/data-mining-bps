@@ -1,0 +1,5 @@
+method,iter,accuracy,n_features,len_train_no_dupe,len_val,hyperparameter
+default,19,0.8085106382978723,20,374,94,"{'activation': 'tanh', 'hidden_layer_sizes': (32,), 'learning_rate': 'constant', 'solver': 'adam'}"
+fisher score,19,0.8191489361702128,5,374,94,"{'activation': 'logistic', 'hidden_layer_sizes': (64, 32), 'learning_rate': 'constant', 'solver': 'adam'}"
+rfe,19,0.8191489361702128,11,374,94,"{'activation': 'tanh', 'hidden_layer_sizes': (32,), 'learning_rate': 'constant', 'solver': 'adam'}"
+sfs,19,0.8191489361702128,10,374,94,"{'activation': 'tanh', 'hidden_layer_sizes': (64,), 'learning_rate': 'constant', 'solver': 'adam'}"

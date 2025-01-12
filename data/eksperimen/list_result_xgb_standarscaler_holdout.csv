@@ -1,0 +1,5 @@
+method,iter,accuracy,n_features,len_train_no_dupe,len_val,hyperparameter
+default,19,0.8085106382978723,20,374,94,"{'learning_rate': 0.2, 'max_depth': 3, 'min_child_weight': 2, 'n_estimators': 200}"
+fisher score,19,0.7872340425531915,18,374,94,"{'learning_rate': 0.2, 'max_depth': 7, 'min_child_weight': 4, 'n_estimators': 50}"
+rfe,19,0.7553191489361702,12,374,94,"{'learning_rate': 0.2, 'max_depth': 7, 'min_child_weight': 1, 'n_estimators': 50}"
+sfs,19,0.7978723404255319,10,374,94,"{'learning_rate': 0.1, 'max_depth': 7, 'min_child_weight': 4, 'n_estimators': 50}"
